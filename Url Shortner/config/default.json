@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://krunal:krunal28@cluster0.zjnfk.mongodb.net/?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}

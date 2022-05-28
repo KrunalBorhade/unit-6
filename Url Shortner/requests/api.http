@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl" : "https://www.amazon.in/Airdopes-141-Playtime-Resistance-Bluetooth/dp/B09N3ZNHTY/ref=zg-bs_electronics_4/259-0303499-0011555?pd_rd_w=ifsGS&content-id=amzn1.sym.56cde3ad-3235-46d2-8a20-4773248e8b83&pf_rd_p=56cde3ad-3235-46d2-8a20-4773248e8b83&pf_rd_r=SPHGG2SS0SDWCZWRBRNJ&pd_rd_wg=ZMz7J&pd_rd_r=a34d91a9-1f7b-438f-bc9c-0bdfd08b3bfc&pd_rd_i=B09N3ZNHTY&th=1"
+}
