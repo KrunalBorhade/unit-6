@@ -1,0 +1,52 @@
+{
+  "Country": [
+    {
+      "country_name": "India",
+      "city_name": "Thane",
+      "population": "200000",
+      "id": 1
+    },
+    {
+      "country_name": "India",
+      "city_name": "Pune",
+      "population": "300000",
+      "id": 2
+    },
+    {
+      "country_name": "USA",
+      "city_name": "LA",
+      "population": "125586",
+      "id": 3
+    },
+    {
+      "country_name": "USA",
+      "city_name": "DC",
+      "population": "545442",
+      "id": 4
+    },
+    {
+      "country_name": "UK",
+      "city_name": "Manchester",
+      "population": "158962",
+      "id": 5
+    },
+    {
+      "country_name": "UK",
+      "city_name": "Liverpool",
+      "population": "8451575",
+      "id": 6
+    },
+    {
+      "country_name": "NZ",
+      "city_name": "Auckland",
+      "population": "884545",
+      "id": 7
+    },
+    {
+      "country_name": "AUS",
+      "city_name": "Melbourne",
+      "population": "878465",
+      "id": 8
+    }
+  ]
+}
