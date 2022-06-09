@@ -6,8 +6,10 @@ import UserForm from "./Components/UserForm"
 function App() {
   return (
     <div className="App">
-      <User />
+     
       <UserForm />
+      <br></br>
+      <User />
     </div>
   );
 }
